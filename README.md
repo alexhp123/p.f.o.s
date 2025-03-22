@@ -1,7 +1,7 @@
 
 # P.F.O.S
 
-a os fully based on one index.html file
+a os fully based on html css javascript
 
 ## Demo
 demo here : https://alexhp123.github.io/p.f.o.s
