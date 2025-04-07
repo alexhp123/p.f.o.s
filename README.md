@@ -25,13 +25,6 @@ demo here : https://alexhp123.github.io/p.f.o.s
 #### why did you delete the old index.html?
 IT WAS UGLY!!!
 
-#### how can you fit a hole web site that is fully made?
-
-- <style>
-- <script>
-
-
-
 ## Support
 
 For support, email is in my github bio
